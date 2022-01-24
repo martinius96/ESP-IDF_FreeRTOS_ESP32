@@ -1,2 +1,5 @@
-# ESP-IDF_FreeRTOS_ESP32
-Source codes of some applications developed under ESP-IDF framework for ESP32 board. Apps are using FreeRTOS.
+# ESP-IDF projects
+* Projects developed for ESP32 microcontroller
+* FreeRTOS implemented with tasks for subprograms
+* No build, Cmake files included
+* Developed under ESP-IDF release versions 4.0, 4.2 up to 4.3.2
